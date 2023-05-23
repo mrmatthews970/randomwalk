@@ -1,2 +1,2 @@
 # randomwalk
-Code for multidimensional random walk implementation optimized with just-in-time compilation for extreme efficiency.
+They say a drunken man will ffind his way home, but a drunken bird will be forever lost.
